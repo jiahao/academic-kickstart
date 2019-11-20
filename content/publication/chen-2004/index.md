@@ -8,5 +8,6 @@ abstract: ""
 featured: false
 projects: ["theochem"]
 publication: "PHYS 598 NSM Term Paper"
+url_slides: https://www.slideshare.net/acidflask/excitation-energy-transfer-in-photosynthetic-membranes
 ---
 

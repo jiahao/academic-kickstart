@@ -8,5 +8,6 @@ abstract: "Fluctuating-charge models are computationally efficient methods of tr
 featured: false
 publication: "PhD thesis"
 url_pdf: https://arxiv.org/abs/1004.0186
+url_slides: https://www.slideshare.net/acidflask/finalexam
 ---
 

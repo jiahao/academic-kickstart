@@ -10,7 +10,7 @@ As part of the Julia language project, we have developed an approach that yields
 featured: false
 publication: "*ARRAY'14 Proceedings of ACM SIGPLAN International Workshop on Libraries, Languages, and Compilers for Array Programming*"
 doi: "10.1145/2627373.2627383"
-url_pdf: "https://arxiv.org/abs/1407.3485"
+url_pdf: "https://arxiv.org/abs/1407.3845"
 url_slides: "http://www.sable.mcgill.ca/array/2014/"
 ---
 

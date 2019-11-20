@@ -2,15 +2,15 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 150  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Professional courses"
 subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006-01"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  organization = "Q-Chem, Inc"
+  organization_url = "https://www.q-chem.com/"
+  title = "Q-Chem Developers' Workshop"
+  url = "https://www.q-chem.com/qchem-website/ws_sch4.html"
+  certificate_url = "https://www.q-chem.com/"
+  date_start = "2012-08-17"
+  date_end = "2012-08-18"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Boston University"
+  organization_url = "https://www.bu.edu"
+  title = "Introduction to Immunology for Physical Scientists and Engineers"
+  url = "http://www.bu.edu/research/files/2010/10/ImmunologyPoster.pdf"
+  certificate_url = "http://www.bu.edu/research/files/2010/10/ImmunologyPoster.pdf"
+  date_start = "2010-09-08"
+  date_end = "2010-09-10"
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "Mathematical Sciences Research Institute"
+  organization_url = "http://www.msri.org"
+  title = "Mathematical and Statistical Methods for Visualization and Analysis of High Dimensional Data"
+  url = "http://www.msri.org/workshops/289"
+  certificate_url = "http://www.msri.org/workshops/289"
+  date_start = "2004-12-09"
+  date_end = "2004-12-14"
   description = ""
 
 +++
