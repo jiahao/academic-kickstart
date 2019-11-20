@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Sponsor Talk: Capital One"
+title: "Sponsor Address: Capital One"
 event: JuliaCon 2018
 event_url: https://sched.co/FlSr
 location: Darwin Lecture Theatre, University of London
@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2017-08-10T14:00:00+01:00
-date_end: 2017-08-10T14:05:00+01:00
+date: 2018-08-10T14:00:00+01:00
+date_end: 2018-08-10T14:05:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).

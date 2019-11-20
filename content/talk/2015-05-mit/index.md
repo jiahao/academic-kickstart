@@ -1,29 +1,29 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Sponsor Address: J.P.Morgan Chase & Co."
-event: JuliaCon 2019
-event_url: https://pretalx.com/juliacon2019/talk/JHZRJS/
-location: University of Maryland School of Nursing
+title: "Understanding ECG signals in the MIMIC II database"
+event: "MIT Big Data Initiative at CSAIL member workshop: Data to Insights"
+event_url: http://bigdata.csail.mit.edu/datatoinsights_agenda
+location:  MIT Stata Center
 address:
-  street: 655 W Lombard St
-  city: Baltimore
-  region: Maryland
-  postcode: 21201
+  street: 32 Vassar Street
+  city: Cambridge
+  region: Massachusetts
+  postcode: 02139
   country: US
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-07-24T09:30:00-04:00
-date_end: 2019-07-24T09:45:00-04:00
+date: 2015-05-21T16:20:00-04:00
+date_end: 2015-05-21T16:40:00-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-11-20T21:04:10+08:00
+publishDate: 2019-11-21T02:11:18+08:00
 
-authors: ["Jiahao Chen"]
+authors: ["Jiahao Chen", "Jake Bolewski"]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -46,11 +46,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://www.slideshare.net/acidflask/understanding-ecg-signals-in-the-mimic-ii-database
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=vZyv9Mb7SQE
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -64,5 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["julia"]
+projects: ["julia", "scicomp"]
 ---
