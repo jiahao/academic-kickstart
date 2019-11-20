@@ -16,14 +16,14 @@ abstract: "We propose a benchmarking strategy that is robust in the presence of 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-11-21T02:24:56+08:00
-date_end: 2019-11-21T02:24:56+08:00
+date: 2018-11-07T15:30:00+01:00
+date_end: 2018-11-07T16:30:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-11-21T02:24:56+08:00
 
-authors: []
+authors: ["Jiahao Chen"]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -64,5 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["julia", "pl"]
 ---
